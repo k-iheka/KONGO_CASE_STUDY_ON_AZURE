@@ -1,0 +1,11 @@
+location_id,address_city,address_street,address_number,address_zipcode,address_geolocation_lat,address_geolocation_long
+0,kilcoole,new road,7682,12926-3874,-37.3159,81.1496
+1,kilcoole,Lovers Ln,7267,12926-3874,-37.3159,81.1496
+2,Cullman,Frances Ct,86,29567-1452,40.3467,-30.131
+3,San Antonio,Hunters Creek Dr,6454,98234-1734,50.3467,-20.131
+4,san Antonio,adams St,245,80796-1234,40.3467,-40.131
+5,el paso,prospect st,124,12346-0456,20.1677,-10.6789
+6,fresno,saddle st,1342,96378-0245,10.3456,20.6419
+7,mesa,vally view ln,1342,96378-0245,50.3456,10.6419
+8,miami,avondale ave,345,96378-0245,40.12456,20.5419
+9,fort wayne,oak lawn ave,526,10256-4532,30.24788,-20.545419

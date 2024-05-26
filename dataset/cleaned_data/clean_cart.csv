@@ -1,0 +1,8 @@
+id,userId,date,products
+1,1,2020-03-02 01:00:00,"[Row(productId=1, quantity=4), Row(productId=2, quantity=1), Row(productId=3, quantity=6)]"
+2,1,2020-01-02 01:00:00,"[Row(productId=2, quantity=4), Row(productId=1, quantity=10), Row(productId=5, quantity=2)]"
+3,2,2020-03-01 01:00:00,"[Row(productId=1, quantity=2), Row(productId=9, quantity=1)]"
+4,3,2020-01-01 01:00:00,"[Row(productId=1, quantity=4)]"
+5,3,2020-03-01 01:00:00,"[Row(productId=7, quantity=1), Row(productId=8, quantity=1)]"
+6,4,2020-03-01 01:00:00,"[Row(productId=10, quantity=2), Row(productId=12, quantity=3)]"
+7,8,2020-03-01 01:00:00,"[Row(productId=18, quantity=1)]"

@@ -1,0 +1,11 @@
+customer__id,email,username,password,phone,name_firstname,name_lastname,location_id
+1,john@gmail.com,johnd,m38rmF$,1-570-236-7033,john,doe,0
+2,morrison@gmail.com,mor_2314,83r5^_,1-570-236-7033,david,morrison,1
+3,kevin@gmail.com,kevinryan,kev02937@,1-567-094-1345,kevin,ryan,2
+4,don@gmail.com,donero,ewedon,1-765-789-6734,don,romer,3
+5,derek@gmail.com,derek,jklg*_56,1-956-001-1945,derek,powell,4
+6,david_r@gmail.com,david_r,3478*#54,1-678-345-9856,david,russell,5
+7,miriam@gmail.com,snyder,f238&@*$,1-123-943-0563,miriam,snyder,6
+8,william@gmail.com,hopkins,William56$hj,1-478-001-0890,william,hopkins,7
+9,kate@gmail.com,kate_h,kfejk@*_,1-678-456-1934,kate,hale,8
+10,jimmie@gmail.com,jimmie_k,klein*#%*,1-104-001-4567,jimmie,klein,9
